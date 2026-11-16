@@ -32,8 +32,6 @@ The point is not that 2FE can never be used. The paper's narrower claim is that 
 
 **For (a).** The standard 2FE model is
 
-**For (a).** The standard 2FE model is
-
 \[
 Y_{it}=\alpha_i+\gamma_t+\beta X_{it}+\epsilon_{it}.
 \]
